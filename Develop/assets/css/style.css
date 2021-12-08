@@ -4,10 +4,12 @@
   margin: 0;
 }
 
+/* Main background colour */
 body {
   background-color: #d9dcd6;
 }
 
+/* Header and nav bar styling */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +42,20 @@ body {
   display: inline-block;
   margin-left: 25px;
 }
+/* End of header and nav bar styling */
 
+/* Anchor styling */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Paragraph styling */
 p {
   font-size: 16px;
 }
 
+/* The main image */
 .background-image {
   height: 800px;
   width: 100%;
@@ -59,6 +65,7 @@ p {
   background-position: center;
 }
 
+/* Image positioning for services */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -69,12 +76,14 @@ p {
   margin-left: 25px;
 }
 
+/* Positioning for services content */
 .services {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* Styling and positioning for benefits sidebar */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -133,7 +142,9 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+/* End of styling and positioning for benefits sidebar */
 
+/* Styling for services content */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -187,7 +198,9 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+/* End of styling for services content */
 
+/* Footer styling */
 .footer {
   padding: 30px;
   clear: both;
