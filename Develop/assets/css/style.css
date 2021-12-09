@@ -66,12 +66,12 @@ p {
 }
 
 /* Image positioning for services */
-.float-left {
+.image-float-left {
   float: left;
   margin-right: 25px;
 }
 
-.float-right {
+.image-float-right {
   float: right;
   margin-left: 25px;
 }
@@ -101,7 +101,6 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
 /* End of styling for services content */
 
 /* Styling and positioning for benefits sidebar */
@@ -141,6 +140,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
   font-size: 20px;
 }
