@@ -16,3 +16,5 @@ replaced all div tags with semantic html
 change heart emoji
 fix seo link to work correctly
 added comments to html
+removed unnecessary classes from services and benfits to simplify the code
+re-ordered css so that it follows the flow of the page

@@ -50,11 +50,6 @@ a {
   text-decoration: none;
 }
 
-/* Paragraph styling */
-p {
-  font-size: 16px;
-}
-
 /* The main image */
 .background-image {
   height: 800px;
@@ -63,6 +58,11 @@ p {
   background-image: url('../images/digital-marketing-meeting.jpg');
   background-size: cover;
   background-position: center;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 16px;
 }
 
 /* Image positioning for services */
@@ -82,6 +82,27 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
+/* Styling for services content */
+.services > section {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #0072bb;
+  color: #ffffff;
+}
+
+.services > section img {
+  max-height: 200px;
+}
+
+.services > section h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+/* End of styling for services content */
 
 /* Styling and positioning for benefits sidebar */
 .benefits {
@@ -111,27 +132,6 @@ p {
   max-width: 150px;
 }
 /* End of styling and positioning for benefits sidebar */
-
-/* Styling for services content */
-.services > section {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.services > section img {
-  max-height: 200px;
-}
-
-.services > section h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/* End of styling for services content */
 
 /* Footer styling */
 .footer {
