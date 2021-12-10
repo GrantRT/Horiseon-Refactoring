@@ -24,6 +24,8 @@ To achieve the task I applied the following changes:
 
 ## Link
 
+https://grantrt.github.io/Horiseon-Refactoring/
+
 ## Screenshots
 
 ![Horiseon nav bar and hero image](https://user-images.githubusercontent.com/93350224/145581708-a9c7b955-1fee-491b-8144-0936f88a7ce7.png)
