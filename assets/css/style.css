@@ -1,3 +1,4 @@
+/* "*" resets the styling so that every browser has the same style */
 * {
   box-sizing: border-box;
   padding: 0;

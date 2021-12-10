@@ -1,20 +1,31 @@
-# Horiseon-Refactoring
+# Horiseon Refactoring
 
-Refactoring existing code to follow accessibility standards and increase search engine optimization.
+## Introduction
 
-to-do:
-replace span tag with semantic html if possible
-simplify code by using classes instead of ID where possible
-add alt attributes to images
-add comments css
+I was given the task to refactor existing code to follow accessibility standards and to make the site optimised for search engines.
 
-changes made:
-Changed title from "website" to "Horiseon"
-fixed seo link by giving the destination an ID.
-Formatted the code so it is more clean and easier to read.
-replaced all div tags with semantic html
-change heart emoji
-fix seo link to work correctly
-added comments to html
-removed unnecessary classes from services and benfits to simplify the code
-re-ordered css so that it follows the flow of the page
+## Technology used
+
+- HTML (HyperText Markup Language)
+- CSS (Cascading Style Sheets)
+
+## Summary
+
+To achieve the task I applied the following changes:
+
+- Added a suitable and concise title.
+- Refactored div tags to semantic tags where possible.
+- Formatted a re-ordered the HTML & CSS to follow a logical structure and flow.
+- Added ALT attributes to all images and icons and a title to the Hero image.
+- Refactored the heading attributes to fall in sequential order.
+- Refactored the navbar so that all links are functioning correctly.
+- Added appropriate comments to HTML and CSS.
+- Streamlined the CSS to remove unnecessary classes where duplicated styles were applied.
+
+## Link
+
+## Screenshots
+
+![Horiseon nav bar and hero image](https://user-images.githubusercontent.com/93350224/145581708-a9c7b955-1fee-491b-8144-0936f88a7ce7.png)
+
+![Horiseon content and sidebar](https://user-images.githubusercontent.com/93350224/145581908-c494237d-717f-4c57-89d8-6fde5e8a0c88.png)
